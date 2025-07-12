@@ -1,4 +1,4 @@
-from calculadora import Calculadora
+from libs.calculadora import Calculadora
 
 c= Calculadora()
 
